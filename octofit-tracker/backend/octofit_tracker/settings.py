@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-w3yo8j6ioqpz&!1_mtp*t!m)z*3dx+n+ijluemak+pfmt*f-mq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['obscure-space-train-p7jxp7w759jc6p6w-8000.app.github.dev', 'localhost']
 
 
 # Application definition
